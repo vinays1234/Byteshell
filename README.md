@@ -3,8 +3,6 @@ A simple shell used to execute built-in Linux command.
 ## Project was completed using
 - C language
 - Shell
-## How to use it?
-- https://youtu.be/yNY4pwm3Tgc
 ## General Requirement for project
 - All files will be compiled on Ubuntu using gcc.
 - Download the Zip file and go to the directory in Ubuntu where dowloaded folder is there by using "cd" command then  compile and execute it
